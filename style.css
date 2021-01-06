@@ -26,7 +26,6 @@ ul {
     width: 1170px;
     height: 100%;
     float: left;
-
 }
 .main-menu ul li {
     float: left;
@@ -94,6 +93,7 @@ section{
     #work1{
         width: 25%;
         background-color: white;
+   
     }
     #work2{
         width: 25%;
@@ -109,7 +109,7 @@ section{
         background-repeat: no-repeat;
         width: 50%;
         height: 40%;
-        margin-left: 280px;
+        margin-left: 300px;
     }
     .inq-area{
         text-transform: uppercase;
@@ -120,4 +120,14 @@ section{
     .chat-button{
         float: right;
         margin-right: 50px;
+    }
+    footer{
+        text-align:center;
+    }
+    footer h3{
+        text-transform: uppercase;
+        color: dimgray;
+    }
+    footer p{
+        color: darkgrey;
     }
