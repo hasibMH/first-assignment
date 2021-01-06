@@ -78,3 +78,46 @@ section{
     text-transform: uppercase;
     color: dimgray;
 }
+    .my-work{
+        box-shadow: 10px 10px 40px;
+        border-radius: 5px;
+        height: 70%;
+    }
+    .working-project{
+       background-color: gainsboro;
+    }
+    .working-project h2{
+        text-align: center;
+        text-transform: uppercase;
+        color: dimgray;
+    }
+    #work1{
+        width: 25%;
+        background-color: white;
+    }
+    #work2{
+        width: 25%;
+        background-color: white;
+    }
+    #work3{
+        width: 25%;
+        background-color: white;
+    }
+    .Work-inq{
+        background-image: url("shapes/Group_33094_1.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 50%;
+        height: 40%;
+        margin-left: 280px;
+    }
+    .inq-area{
+        text-transform: uppercase;
+        color: white;
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+    .chat-button{
+        float: right;
+        margin-right: 50px;
+    }
