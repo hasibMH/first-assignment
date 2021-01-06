@@ -1,0 +1,80 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+
+}
+p{
+    color: dimgray;
+}
+.n1
+{
+    color: tomato;
+}
+ul {
+    list-style-type: none;
+}
+.menu-part{
+    height: 10px;
+}
+.main-menu{
+    width: 1170px;
+    height: 100%;
+    float: left;
+
+}
+.main-menu ul li {
+    float: left;
+}
+
+.main-menu ul {
+    float: right;
+}
+.main-menu ul li a {
+    color:dimgray;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: 'Oswald', sans-serif;
+    line-height: 50px;
+    text-transform: uppercase;
+    margin-left: 30px;
+    text-decoration: none;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+    
+}
+.half-width h1{
+    text-transform: uppercase;
+    color: dimgray;
+    margin-bottom: -7px;
+}
+.half-width img {
+width: 100%;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(60deg,lightsalmon, tomato);
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.half-width h2
+{
+    text-transform: uppercase;
+    color: dimgray;
+}
